@@ -1,0 +1,99 @@
+{
+    "name": "Debasish Borah",
+    "contact": {
+        "email": "rexdebasishborah@gmail.com",
+        "github": "debasish14",
+        "linkedin": "debasish-borah",
+        "location": "India"
+    },
+    "education": [
+        {
+            "institution": "Manipal University Jaipur",
+            "degree": "B.Tech (Hons.) Computer Science and Engineering",
+            "specialization": "IoT and Intelligent Systems",
+            "start": "2021-10",
+            "end": "2025-07"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Digital Specialist Engineer",
+            "company": "Infosys",
+            "start": "2025-08",
+            "end": "Present",
+            "highlights": [
+                "Undergoing intensive training in big data engineering, building hands-on expertise in distributed computing and data pipeline design",
+                "Developing and optimizing ETL pipelines using Apache Spark, Kafka, MongoDB, and SQL for large-scale data processing and real-time streaming",
+                "Working with Azure cloud services and Databricks to design, deploy, and manage scalable data workflows and analytics solutions"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Personal Health Insights Pipeline",
+            "stack": [
+                "Spark",
+                "Plotly",
+                "Data Processing"
+            ],
+            "description": "Pipeline for Apple Watch health metrics with automated insights"
+        },
+        {
+            "name": "Financial Analytics Dashboard",
+            "stack": [
+                "Flask",
+                "Pandas",
+                "Plotly",
+                "ML"
+            ],
+            "description": "Real-time stock dashboard with predictive modeling"
+        },
+        {
+            "name": "RFID Equipment Tracking System",
+            "stack": [
+                "React",
+                "Firebase",
+                "Raspberry Pi",
+                "RFID"
+            ],
+            "description": "Automated lab asset tracking system"
+        }
+    ],
+    "skills": {
+        "languages": [
+            "Python",
+            "Java",
+            "C/C++",
+            "JavaScript",
+            "SQL",
+            "HTML",
+            "CSS"
+        ],
+        "databases": [
+            "MySQL",
+            "MongoDB"
+        ],
+        "cloud_devops": [
+            "Azure",
+            "Databricks",
+            "Docker",
+            "Kubernetes",
+            "Spark",
+            "Kafka"
+        ],
+        "tools": [
+            "Git",
+            "GitHub"
+        ],
+        "os": [
+            "macOS",
+            "Windows",
+            "Unix"
+        ]
+    },
+    "certifications": [
+        "Databricks Certified Data Engineer Associate",
+        "MongoDB SI Associate",
+        "Infosys Certified PySpark Associate"
+    ]
+}
