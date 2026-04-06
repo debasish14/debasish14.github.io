@@ -368,22 +368,46 @@ body {
     padding: 36px 18px 60px;
   }
 
-  .header h1 {
+  .header-row {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+
+  .avatar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .header-info h1 {
     font-size: 1.8rem;
   }
 
   .contact-row {
-    gap: 4px 12px;
+    justify-content: center;
+    gap: 6px 12px;
     font-size: 0.82rem;
   }
 
   .skills-grid {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 16px;
+  }
+
+  .entry-with-logo {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .org-logo {
+    width: 64px;
+    height: 64px;
   }
 
   .entry-header {
     flex-direction: column;
+    align-items: flex-start;
   }
 }
 
